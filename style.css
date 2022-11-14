@@ -31,7 +31,7 @@ main {
 }
 
 .glass {
-  background: white;
+  background: grey;
   min-height: 80vh;
   width: 60%;
   background: linear-gradient(
